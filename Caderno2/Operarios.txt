@@ -1,0 +1,2 @@
+O:Jonas Culatra;Data:20/9/1987; Rua da direita n 2;25023; Pintura;1100;20;sim;Ordenado Final: 1575
+O:Luis Carlos;Data:1/12/1985; Rua Central n22;10000; Ferragem;1100;0;nao;Ordenado Final: 1100
